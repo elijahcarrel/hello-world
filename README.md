@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-My first github repository
+This is my first github repository! Hopefully I'll add old projects to github soon, but this is my first time gitting.
